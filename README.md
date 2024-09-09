@@ -1,5 +1,6 @@
 # HR Attrition Analysis
-![](Intro_image.jpg) 
+![HR Attrition Analysis](Intro_image.jpg)
+
 ## Overview
 This HR analytics dashboard analyzes company-wide attrition rates to identify key drivers and trends, focusing on departments like Sales, R&D, and HR. It provides insights into employee turnover, job satisfaction, and education impacts to support HR in enhancing retention strategies.
 
