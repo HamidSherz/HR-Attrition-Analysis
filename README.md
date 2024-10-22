@@ -1,6 +1,9 @@
 # HR Attrition Analysis
+
 ![HR Attrition Analysis](Intro_image.png)
-For interactive dashboards, check out the Tableau Dashboard on [Tableau Public](https://public.tableau.com/views/HRDashboard_17259209857220/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) or alternatively, you can download the file directly from this repository [here](Dashboard.twbx).
+
+For interactive dashboards, check out the Tableau Dashboard on [Tableau Public](https://public.tableau.com/views/HRDashboard_17259209857220/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Overview
 This HR analytics dashboard analyzes company-wide attrition rates to identify key drivers and trends, focusing on departments like Sales, R&D, and HR. It provides insights into employee turnover, job satisfaction, and education impacts to support HR in enhancing retention strategies.
 
